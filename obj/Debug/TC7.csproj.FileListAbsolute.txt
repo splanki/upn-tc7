@@ -1,0 +1,7 @@
+D:\UPN\Ciclo 4\Estructura de Datos\TC7\TC7\bin\Debug\TC7.exe.config
+D:\UPN\Ciclo 4\Estructura de Datos\TC7\TC7\bin\Debug\TC7.exe
+D:\UPN\Ciclo 4\Estructura de Datos\TC7\TC7\bin\Debug\TC7.pdb
+D:\UPN\Ciclo 4\Estructura de Datos\TC7\TC7\obj\Debug\TC7.csprojAssemblyReference.cache
+D:\UPN\Ciclo 4\Estructura de Datos\TC7\TC7\obj\Debug\TC7.csproj.CoreCompileInputs.cache
+D:\UPN\Ciclo 4\Estructura de Datos\TC7\TC7\obj\Debug\TC7.exe
+D:\UPN\Ciclo 4\Estructura de Datos\TC7\TC7\obj\Debug\TC7.pdb
